@@ -8,6 +8,7 @@ public class Main {
 		
 		object.ravindu();
 		
+		object.newMethod();
 	}
 
 }
