@@ -5,4 +5,8 @@ public class Object {
 		System.out.println("Print Ravindu");
 	}
 	
+	public void newMethod() {
+		System.out.println("Print new Method");
+	}
+	
 }
